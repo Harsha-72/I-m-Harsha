@@ -1,0 +1,239 @@
+
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    height: 600px;
+}
+
+.top-section {
+   background-image: url(https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right; 
+    border-radius: 5px;
+    background-color:transparent
+        ;
+    flex-basis: 50%;
+
+}
+
+.half-width {
+    width: 35%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 5%;
+    padding-top: 5%;
+  
+}
+
+h1{
+    font-size: 20px;
+}
+
+h1 span{
+    color: #ee558d;
+    font-size: 55px;
+    text-transform: uppercase;
+}
+
+p {
+    padding-bottom: 20px;
+    text-align: justify;
+    line-height: 1.4em;
+    color: gray;
+}
+
+.top-text {
+    padding-left: 7%;
+    padding-top: 15%;
+}
+
+.half-width img {
+    width: 95%;
+    background-color: transparent;
+}
+
+.about-btn{
+    text-decoration: none;
+    background: linear-gradient(45deg, #ee558d, #ff6347);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.bio-section {
+    background-image: url(https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center; 
+}
+.half-width img {
+    width: 95%;
+    background-color: transparent;
+}
+
+.bio-text {
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.latest-work {
+    background-image: url(https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+#work-title {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    font-size: 25px;
+}
+
+.latest-work img{
+    width: 27%;
+    float: left;
+    padding-left: 4%;
+}
+
+.bottom {
+    background-image: url(https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.bottom h2{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;   
+}
+
+.clients{
+    width: 100%;
+}
+
+.client-image {
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 35%;
+}
+
+.client-name, .client-role {
+    text-align: center;
+}
+
+.client-quote {
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.contact {
+    background-color: #ee558d;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5px;
+    padding-top: 15px;
+}
+
+.contact p{
+    text-align: center;
+    line-height: 0em;
+    color: white;
+}
+
+.email {
+    padding-bottom: 5%;
+    text-decoration: none;
+}
+
+.email a {
+    text-decoration: none;
+    color: white;
+}
+
+.social {
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+
+}
+
+.social h3{
+    text-align: center;
+}
+
+.foot-note {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+
+.foot-note a {
+    text-decoration: none;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  
+  .fa-github {
+    background: #1f1d1b;
+    color: white;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-whatsapp {
+    background:#008000;
+    color: white;
+}
+  .fa-instagram {
+    background:#3f729b;
+    color: white;
+}
+  .fa-envelope-o {
+    background:#F08080;
+    color: white;
+}
+.Maps {
+    width: 30%;
+    margin-left: 45%;
+    margin-right: 37%;
+    flex-basis: 55%;
+}
+.sc
+{
+    background-image: url(https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
